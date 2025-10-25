@@ -49,3 +49,7 @@ lint-libm/result/*
 lint-libm/lint-nt.exe
 lost+found
 html/
+
+/output/
+/c2rust_output/
+/hayroll_output/
